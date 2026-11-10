@@ -1,14 +1,13 @@
 # bravowhiskeybravo
 
-# `bravowhiskybravo`
 
 ### Curious by nature. Builder by habit.
 
 I'm interested in how technology works, how things fit together, and what can be made a little more useful.
 
-I spend my time exploring software development, cybersecurity, networking, Linux, and automation — usually with a project or experiment somewhere in the mix.
+I spend my time exploring software development, cybersecurity, networking, Linux, and automation.
 
-I like building practical tools, learning by taking things apart, and occasionally seeing what happens when an idea gets a little weird.
+I like building practical tools and impractical tools, learning by taking things apart, and occasionally seeing what happens when an idea gets a little weird.
 
 ---
 
@@ -18,7 +17,7 @@ I like building practical tools, learning by taking things apart, and occasional
 |:--|:--|
 | **Development** | Python, JavaScript, HTML, C |
 | **Systems** | Linux, networking, infrastructure, automation |
-| **Security** | Cybersecurity, defensive security, threat awareness |
+| **Security** | Cybersecurity, defensive security, threat awareness, privacy, anti surveillance |
 | **Exploration** | Software experiments, data, problem-solving |
 
 **Primary tools & languages**
