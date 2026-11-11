@@ -94,14 +94,5 @@ Not everything needs to become a startup. Sometimes a useful little tool is enou
 
 *Always learning. Usually building something.*
 
-## DAILY TRANSMISSION
-One day. One meme. Zero guarantees of quality.
 
-**Today's selection**
-
-![Daily meme](assets/daily.gif)
-
-<sub>Source: see data/current.json for the active attribution and license details.</sub>
-
-<sub>Don't like it? Check back tomorrow.</sub>
 
