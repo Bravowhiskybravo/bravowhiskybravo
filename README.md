@@ -1,35 +1,6 @@
 # bravowhiskeybravo
 
 
-### Curious by nature. Builder by habit.
-
-I'm interested in how technology works, how things fit together, and what can be made a little more useful.
-
-I spend my time exploring software development, cybersecurity, networking, Linux, and automation.
-
-I like building practical tools and impractical tools, learning by taking things apart, and occasionally seeing what happens when an idea gets a little weird.
-
----
-
-## What I'm interested in
-
-| Area | Interests |
-|:--|:--|
-| **Development** | Python, JavaScript, HTML, C |
-| **Systems** | Linux, networking, infrastructure, automation |
-| **Security** | Cybersecurity, defensive security, threat awareness, privacy, anti surveillance |
-| **Exploration** | Software experiments, data, problem-solving |
-
-**Primary tools & languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
 ## Selected work
 
 ### [Loop — Task Tracker](https://bravowhiskybravo.github.io/Loop_task_tracker/)
@@ -42,7 +13,7 @@ An ongoing project focused on everyday organization, recurring tasks, and schedu
 
 ---
 
-## Other projects & experiments
+## Other projects
 
 A few smaller projects exploring different ideas, solving specific problems, or just being interesting things to build.
 
@@ -80,13 +51,7 @@ An interactive, gamified approach to studying and reinforcing material.
 
 ---
 
-## A little more
 
-I believe the best way to understand technology is to experiment with it.
-
-Some projects become ongoing tools. Others are one-off solutions. Some are just interesting rabbit holes.
-
-Not everything needs to become a startup. Sometimes a useful little tool is enough.
 
 ---
 
