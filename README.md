@@ -7,7 +7,7 @@
 
 **A practical tool for keeping recurring tasks from falling through the cracks.**
 
-An ongoing project focused on everyday organization, recurring tasks, and scheduling. The goal is simple: make staying on top of things a little less complicated.
+An ongoing project focused on everyday organization, recurring tasks, and scheduling. The goal: make staying on top of things a little less complicated.
 
 [**Open live project →**](https://bravowhiskybravo.github.io/Loop_task_tracker/)
 
